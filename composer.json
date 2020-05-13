@@ -1,0 +1,13 @@
+{
+    "name": "u0_a162/mild",
+    "require": {
+        "symfony/http-foundation": "^5.0",
+        "filp/whoops": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Mild\\": "core/"
+        }
+    }
+}
